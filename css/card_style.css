@@ -9,14 +9,14 @@ svg{
 .icons-weight{
     color: #fff;
     background-color: #FF7F09;
-    padding: 10px;
+    padding: 11px;
     border-radius: 50%;
     border: 2px solid #FF7F09;
 }
 .icons-not-weight{
     color: #FF7F09;
     background-color:#fff;
-    padding: 10px;
+    padding: 11px;
     border-radius: 50%;
     border: 2px solid #FF7F09;
 }
@@ -24,14 +24,14 @@ svg{
 .icons-done{
     color: #fff;
     background-color: #4fce10;
-    padding: 10px;
+    padding: 11px;
     border-radius: 50%;
     border: 2px solid #4fce10;
 }
 .icons-not-done{
     color: #4fce10;
     background-color: #fff;
-    padding: 10px;
+    padding: 11px;
     border-radius: 50%;
     border: 2px solid #4fce10;
 }
